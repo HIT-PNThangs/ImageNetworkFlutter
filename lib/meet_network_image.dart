@@ -22,6 +22,7 @@ class MeetNetworkImage extends StatelessWidget {
   final FilterQuality filterQuality;
 
   final BlendMode? colorBlendMode;
+  
   final BoxFit fit;
 
   final AlignmentGeometry alignment;
